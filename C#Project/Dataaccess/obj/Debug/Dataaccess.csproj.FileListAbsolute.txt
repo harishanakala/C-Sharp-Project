@@ -1,0 +1,13 @@
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\Dataaccess\obj\Debug\Dataaccess.csprojResolveAssemblyReference.cache
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\Dataaccess.dll.config
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\Dataaccess.dll
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\Dataaccess.pdb
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\BusinessObject.dll
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\EntityFramework.dll
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\BusinessObject.pdb
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\EntityFramework.xml
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\obj\Debug\Dataaccess.dll
+C:\Users\yuvra\Desktop\3TierApplication\Dataaccess\obj\Debug\Dataaccess.pdb

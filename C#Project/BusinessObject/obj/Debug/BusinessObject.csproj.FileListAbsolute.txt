@@ -1,0 +1,8 @@
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\BusinessObject\bin\Debug\BusinessObject.dll
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\BusinessObject\bin\Debug\BusinessObject.pdb
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\BusinessObject\obj\Debug\BusinessObject.dll
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\BusinessObject\obj\Debug\BusinessObject.pdb
+C:\Users\yuvra\Desktop\3TierApplication\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\yuvra\Desktop\3TierApplication\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessObject\obj\Debug\BusinessObject.pdb

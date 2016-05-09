@@ -1,0 +1,10 @@
+c:\users\abhilash reddy\documents\visual studio 2015\Projects\3TierApplication\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\Dataaccess.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\BusinessObject.pdb
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\bin\Debug\Dataaccess.pdb
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\yuvra\Desktop\3TierApplication\BusinessLogic\obj\Debug\BusinessLogic.pdb
